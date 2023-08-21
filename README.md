@@ -24,8 +24,7 @@
 - - -
 ### 구상도
 
-![hadoop drawio](https://github.com/jk-Lim/hadoop-cluster/assets/126854782/965a69e2-c056-4831-bce2-5e81c1b0b3f6)
-
+![제목 없는 다이어그램 drawio](https://github.com/jk-Lim/hadoop-cluster/assets/126854782/12fba4cf-0ba5-498b-9f82-1ec477759f87)
 
 
 
