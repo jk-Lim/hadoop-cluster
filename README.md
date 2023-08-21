@@ -1,5 +1,7 @@
 ### 프로젝트 개요
 - - - 
+![KakaoTalk_20230822_043630368](https://github.com/jk-Lim/hadoop-cluster/assets/126854782/d3e71480-ea52-4c44-b1f7-7ecb267dc445)
+
 - 프로젝트 주제 : 온프레미스 환경으로 노트북 8대를 연결하여 하둡과 스파크를 사용하기 위한 클러스터 환경 구축
 - 프로젝트 기간 : 2023.7
 - 기획의도
@@ -20,4 +22,10 @@
   - spark : 3.2.4
   - python : 3.10.10 (miniconda 환경)
 - - -
-![KakaoTalk_20230822_043630368](https://github.com/jk-Lim/hadoop-cluster/assets/126854782/d3e71480-ea52-4c44-b1f7-7ecb267dc445)
+### 구상도
+
+![hadoop drawio](https://github.com/jk-Lim/hadoop-cluster/assets/126854782/965a69e2-c056-4831-bce2-5e81c1b0b3f6)
+
+
+
+
