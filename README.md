@@ -14,6 +14,7 @@
   - OS : Windows 10 HOME
   - 프로세서 : Intel(R) Core(TM) i5-7200U CPU
   - RAM : 16GB
+  - ssd : 256GB
  
 - 서버 환경 설정
   - OS : Ubuntu 22.04 LTS
