@@ -29,7 +29,7 @@
   - Hadoop : 3.2.1
   - jdk : 1.8.0
   - spark : 3.2.4
-  - python : 3.10.10 (miniconda 환경)
+  - python : 3.10.10 (miniconda 환경) -> 호환 문제로 3.8.0으로 변경
 - - -
 ### 구상도
 
