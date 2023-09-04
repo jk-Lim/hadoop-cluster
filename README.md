@@ -35,5 +35,8 @@
 
 ![제목 없는 다이어그램 drawio](https://github.com/jk-Lim/hadoop-cluster/assets/126854782/12fba4cf-0ba5-498b-9f82-1ec477759f87)
 
+### VM, GCP VER
 
+로컬로 작업한 Virtual Box를 사용한 작업과
+GCP VM 인스턴스를 활용하여 만든 클러스터 파일 업로드
 
